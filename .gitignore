@@ -1,0 +1,3 @@
+# Project exclude paths
+/target/
+/webService_jaxws_client/target/
